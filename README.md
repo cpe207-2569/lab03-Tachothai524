@@ -12,4 +12,4 @@
 
 - ชื่อ-สกุล: เตโชทัย ทั้งเจริญกุล
 - รหัสนักศึกษา: 670610524
-- <strong>GITHUB PAGE URL : </strong>
+- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-Tachothai524/</strong>
